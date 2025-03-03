@@ -28,15 +28,15 @@ Puedes ver más sobre mis proyectos y experiencia en mi portfolio:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=noehum7&show_icons=true&theme=radical&locale=es)
-
 ## 🌐 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelia-porras-rama-82262313b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noehum7)
 
 ## 📈 Actividad de contribución
 He realizado más de 25 contribuciones en el último año, trabajando en varios proyectos y mejorando continuamente mis habilidades.
+
+## 📊 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=noehum7&show_icons=true&theme=radical&locale=es)
 
 ---
 
