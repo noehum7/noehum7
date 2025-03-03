@@ -15,7 +15,7 @@ Estos son algunos de mis repositorios:
 
 ## 💼 Mi Portfolio
 Puedes ver más sobre mis proyectos y experiencia en mi portfolio:  
-🌍 **[noehum7portfolio.vercel.app](https://noehum7portfolio.vercel.app/)**  
+🌍 **[noehum7portfolio](https://noehum7portfolio.vercel.app/)**  
 
 ## 💻 Habilidades
 - Java
@@ -32,7 +32,7 @@ Puedes ver más sobre mis proyectos y experiencia en mi portfolio:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=noehum7&show_icons=true&theme=radical&locale=es)
 
 ## 🌐 Conéctate conmigo
-- LinkedIn: [in/noelia-porras-rama-82262313b](https://www.linkedin.com/in/noelia-porras-rama-82262313b/)
+- LinkedIn: [Noelia Porras Rama](https://www.linkedin.com/in/noelia-porras-rama-82262313b/)
 
 ## 📈 Actividad de contribución
 He realizado más de 25 contribuciones en el último año, trabajando en varios proyectos y mejorando continuamente mis habilidades.
