@@ -7,7 +7,7 @@ A lo largo de mi formación, he adquirido experiencia en el desarrollo de aplica
 
 ## 🔭 Mis Proyectos
 Estos son algunos de mis repositorios:
-
+- **[42-Cursus](https://github.com/noehum7/42-Cursus)**: Este repositorio contiene una colección de proyectos desarrollados durante mi formación en 42.
 - **[QuienPareceQuien](https://github.com/noehum7/QuienPareceQuien)**: Proyecto de Java que consiste en un juego de adivinanzas estilo "¿Quién es Quién?".
 - **[webPages](https://github.com/noehum7/webPages)**: Varios proyectos de páginas web.
 - **[CalculadoraAndroid](https://github.com/noehum7/CalculadoraAndroid)**: Aplicación que consiste en calculadora simple desarrollada para Android que permite realizar operaciones básicas como suma, resta, multiplicación y división. 
