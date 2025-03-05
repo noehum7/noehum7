@@ -7,7 +7,7 @@ A lo largo de mi formación, he adquirido experiencia en el desarrollo de aplica
 
 ## 🔭 Mis Proyectos
 Estos son algunos de mis repositorios:
-- **[42-Cursus](https://github.com/noehum7/42-Cursus)**: Este repositorio contiene una colección de proyectos desarrollados durante mi formación en 42.
+- **[42-Cursus](https://github.com/noehum7/42-Cursus)**: Este repositorio contiene los proyectos desarrollados durante mi formación en Telefónica 42.
 - **[QuienPareceQuien](https://github.com/noehum7/QuienPareceQuien)**: Proyecto de Java que consiste en un juego de adivinanzas estilo "¿Quién es Quién?".
 - **[webPages](https://github.com/noehum7/webPages)**: Varios proyectos de páginas web.
 - **[CalculadoraAndroid](https://github.com/noehum7/CalculadoraAndroid)**: Aplicación que consiste en calculadora simple desarrollada para Android que permite realizar operaciones básicas como suma, resta, multiplicación y división. 
@@ -16,7 +16,7 @@ Estos son algunos de mis repositorios:
 
 ## 💼 Mi Portfolio
 Puedes ver más sobre mis proyectos y experiencia en mi portfolio:  
-🌍 **[noehum7portfolio](https://noehum7portfolio.vercel.app/)**  
+🌍 **[Noelia Porras - Portfolio](https://noehum7portfolio.vercel.app/)**  
 
 ## 💻 Habilidades y Tecnologías
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
