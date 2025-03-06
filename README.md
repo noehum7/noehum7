@@ -8,6 +8,7 @@ A lo largo de mi formación, he adquirido experiencia en el desarrollo de aplica
 ## 🔭 Mis Proyectos
 Estos son algunos de mis repositorios:
 - **[42-Cursus](https://github.com/noehum7/42-Cursus)**: Este repositorio contiene los proyectos desarrollados durante mi formación en Telefónica 42.
+- **[TindNet](https://github.com/noehum7/tindnet)**: Este repositorio contiene una aplicación móvil desarrollada en Flutter que permite a los usuarios descubrir empresas locales mediante una interfaz intuitiva de deslizamiento similar a las aplicaciones de citas.
 - **[QuienPareceQuien](https://github.com/noehum7/QuienPareceQuien)**: Proyecto de Java que consiste en un juego de adivinanzas estilo "¿Quién es Quién?".
 - **[webPages](https://github.com/noehum7/webPages)**: Varios proyectos de páginas web.
 - **[CalculadoraAndroid](https://github.com/noehum7/CalculadoraAndroid)**: Aplicación que consiste en calculadora simple desarrollada para Android que permite realizar operaciones básicas como suma, resta, multiplicación y división. 
